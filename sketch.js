@@ -163,7 +163,8 @@ if (keyDown("UP_ARROW")){
  
   }
 
-  if(frameCount%70 == 0){
+  
+    if(frameCount%70 == 0){
     
     blade= createSprite (785, 350, 40, 40 )
     blade.velocityX = -4

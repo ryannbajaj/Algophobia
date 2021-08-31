@@ -24,7 +24,7 @@ restart_button = loadImage('restart button.png')
 skullImg = loadImage('skull.png')
 spikes = loadImage('spikes.png')
 wallImg = loadImage('wall.png')
-bikerrun = loadAnimation('biker/Biker_run_attack copy 0.png','biker/Biker_run_attack copy 1.png','biker/Biker_run_attack copy 2.png','biker/Biker_run_attack copy 3.png','biker/Biker_run_attack copy 4.png', 'biker/Biker_run_attack copy 5.png');
+bikerrun = loadAnimation('Biker_run_attack copy 0.png','Biker_run_attack copy 1.png','Biker_run_attack copy 2.png','Biker_run_attack copy 3.png','Biker_run_attack copy 4.png', 'Biker_run_attack copy 5.png');
 saw = loadImage ('Saw.png')
 
 
